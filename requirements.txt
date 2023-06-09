@@ -1,0 +1,7 @@
+torch
+torchvision
+scikit-learn
+scipy
+gensim
+nltk
+tqdm
