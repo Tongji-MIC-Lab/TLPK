@@ -66,4 +66,4 @@ CUDA_VISIBLE_DEVICES=0 python main.py --lr 1e-5 --bs 16 --dataset ucf --pretrain
 
 Please cite the following paper if you find this work useful:
 
-Taiyi Su, Hanli Wang, Qiuping Qi, Lei Wang, Bin He, Transductive Learning with Prior Knowledge for Generalized Zero-shot Action Recognition, IEEE Transactions on Circuits and Systems for Video Technology, accepted, 2023.
+Taiyi Su, Hanli Wang, Qiuping Qi, Lei Wang, and Bin He, Transductive Learning with Prior Knowledge for Generalized Zero-shot Action Recognition, IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 1, pp. 260-273, Jan. 2024.
